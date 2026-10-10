@@ -166,4 +166,4 @@ Potential improvements include:
 - Search, filtering, and category-based quiz discovery.
 - Responsive UI improvements for mobile devices.
 - More comprehensive validation and error handling.
-- Automated tests for API endpoints and authentication flows.
+- Automated tests for API endpoints and Authentication flows
